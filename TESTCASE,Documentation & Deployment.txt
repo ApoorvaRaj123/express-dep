@@ -1,0 +1,17 @@
+
+
+
+--------------------------- TESTCASE, Documentation & Deployment --------------------------------
+
+Inside 02.js, The application is working perfectly. So, it's time to create a new git repository for it, so that I can host it anywhere.
+
+Steps to make a git repository :
+
+1. git init (git in the 02_EXPRESS folder).
+2. make a gitignore file and put files not to be sent to the repository.
+3. git add . (to add everything).
+4. git commit -m "add to github".
+NOW, I need to push it, So the easiest way is to create a new repo in github and then push into it from here.
+
+5. git branch -M main (to change the master branch to main branch).
+6. git remote add origin "URL of the repository".

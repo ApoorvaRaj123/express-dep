@@ -1,0 +1,19 @@
+{
+  "name": "expstart",
+  "version": "1.0.0",
+  "description": "start of express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node 02.js",
+    "dev": "nodemon 02.js"
+  },
+  "author": "V",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
